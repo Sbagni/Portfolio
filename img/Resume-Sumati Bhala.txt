@@ -1,0 +1,40 @@
+SUMATI BHALA
+Toronto, ON M6C1S9
+Phone: 6473030922 | Email: sumatibhala@gmail.com
+LinkedIn: https://www.linkedin.com/in/sumati-bhala-596550123/
+GitHub: https://github.com/Sbagni
+Portfolio: https://sbagni.github.io/Portfolio/
+
+Data analyst with a background in Economics and skills in Excel, VBA, Python and SQL from UofT's Data Analytics and Coding Bootcamp. Excited to work with data and consistently curious to unfold the hidden patterns in data. Enjoy exploring the various ways to traverse the data and render the findings for equally amazing visualisations. Brings in creative ideas, exceptional problem-solving abilities combined with persistence and patience in collaborating across diverse groups.
+TECHNICAL SKILLS
+Tools: Advanced Excel, VBA, Python, Pandas, Matplotlib, API request, Web scraping with beautiful soup, HTML, CSS, Bootstrap, JavaScript, Plotly.js, D3.js, Geo-mapping with leaflet, Tableau, Machine learning, Big data, Cloud ETL.
+Databases: SQL, Mongo-DB.
+PROJECTS
+Sentimental Analysis with machine learning |https://bit.ly/2Lc0C40 |https://bit.ly/34IEYMy | Built a machine learning model to predict the sentiment of tweets,  positive or negative and political or non-political, published for Greta.
+Tools: Python, Pandas, Tweepy, HTML, CSS, Bootstrap, JavaScript, Tableau
+Web visualization: Top 10 Cannabis companies. |http://bit.ly/35TT2Tr |Managed the front end by creating a web page with interactive graphs of Cannabis companies displaying their sales, revenue, equity, assets and liabilities.
+Tools: HTML, CSS, Bootstrap, JavaScript, Plotly.js, Leaflet.js
+
+ETL: Toronto Public Library open datasets| http://bit.ly/2sDCVeB |Extracted data sets from Toronto public library ‘s website. Transformed them into one combined SQL database to run queries and to know more about various branches, users and circulation.
+Tools: Python, Pandas, SQL
+EXPERIENCE
+ESL Teacher, Sprachcaffe GEOS Languages Plus, Toronto	                                                               Jun 2018 – Nov 2019
+? Taught integrated skills and Canadian culture to 18-year-old students.
+? Created student need-analysis based on their strengths and challenges.
+? Did language assessments to decide the right placement for each student.
+Support Staff, Cedarvale community School, Toronto                                                                                   Dec 2017- Till now
+? Supervise students to ensure their safety and security during the lunch recess.
+Online ESL Tutor                                                                                                                                                      Dec 2016- Jan 2017
+? Taught Chinese Children online. Prepared lesson plans to teach language skills.
+ESL Teacher, Pathways School, Gurgaon, India			                                                                 Jul 2014- Dec 2016
+? Extensively used quizlet, digital field trips and other apps. 
+? Created individual learning continuum for each student.
+? Published weekly newsletter with highlights of the week.
+Trainer, SDAM School, New Delhi, India                                                                                                         Jun 2013- Jun 2014
+? Trained teachers on inquiry-based learning. 
+? Conducted workshops on language skills and classroom management.
+Tutor, Adult Literacy Program, TDSB, Toronto                                                                                               May 2010 - May 2013
+? Taught working adult students to improve their reading and writing skills.
+EDUCATION
+Certificate in Data Analytics, University of Toronto, School of Continuing Studies.
+Graduate Degree in Computer Science and Economics, GNDU, India.                                          
